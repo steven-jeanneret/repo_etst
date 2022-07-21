@@ -2,4 +2,6 @@
 
 Update readme for v1.0.1
 
-Addingi in v1.0.2
+Adding in v1.0.2
+
+Update in v1.0.10
